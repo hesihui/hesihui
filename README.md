@@ -1,5 +1,5 @@
 ### Hi there 👋
-### 👯I am a Computer Science Student @ University of Western Ontario. I am intersted in mostly backend development and machine learning. 
+### 👯I am a Computer Science Student @ University of Western Ontario. I am intersted in mostly web development and machine learning. 
 ### Some Teck Stack I am familiar with:
 #### 🔭 Frontend: ReactJs, ReduxJs
 #### 🔭 Backend: Spring Boot, Django, ExpressJs, NodeJs, 
