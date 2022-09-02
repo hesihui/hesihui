@@ -14,7 +14,7 @@
   - About: MxAcademy is an online distance learning platform using Django and MySql. Frontend pages are integrated with Django Templates.
 - Stay+: https://github.com/hesihui/Stay-Plus | SpringBoot, React.JS, MySQL
   - About: Stay+ is a full-stack online marketplace for vacation homes and condo rentals used Spring Boot and React.JS with Antd
--  Moments: https://github.com/hesihui/Moments | Node.JS, Express.JS, MongoDB, MERN Stack
+- Moments: https://github.com/hesihui/Moments | Node.JS, Express.JS, MongoDB, MERN Stack
   - About: Moment is a social media app that allows you to share your own featured moments to other people! MERN stack is used for implementation.
 - Ecommerce SpringCloud: https://github.com/hesihui/Ecommerce-SpringCloud | SpringCloud, Microservice Architecture, Java
   - About: An E-commerce Backend System using Spring Cloud and MicroService Architecture. 
