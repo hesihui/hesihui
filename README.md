@@ -2,7 +2,7 @@
 ### 👯I am a Computer Science Student @ University of Western Ontario. I am intersted in mostly web development and machine learning. 
 ## Some Projects I have done:
 ### 🔭 Frontend: React.JS, Redux.JS
-- Around: https://github.com/hesihui/Around | ReactJS, Google Map API, MUI
+- #### Around: https://github.com/hesihui/Around | ReactJS, Google Map API, MUI
   - About: Around is a web app that helps you to find the places you want to go! You can simply get an interactive map with place information from trip advisor by inputting your location, selecting the type of places and your expected rating.
 - Moments: https://github.com/hesihui/Moments | ReactJS, ReduxJS, MUI
   - About: Moment is a social media app that allows you to share your own featured moments to other people! MERN stack is used for implementation.
