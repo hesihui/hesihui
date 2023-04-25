@@ -9,6 +9,7 @@
 - #### Auto World Ecommerce: https://github.com/hesihui/Auto_World_Ecommerce | Next.JS, React Context API, Sanity, Stripe
   - About: Auto World is a full-stack ecommerce application that sells auto parts implemented by Next.js, Sanity, and Stripe APIs. You can find out the ones you like and pay with stripe directly!
   
+ <!--
 ### 🔭 Backend: Spring Boot, Django, ExpressJs, NodeJs, 
 - #### MxAcademy: https://github.com/hesihui/MxAcademy | Django, Python, Javascript, HTML
   - About: MxAcademy is an online distance learning platform using Django and MySql. Frontend pages are integrated with Django Templates.
@@ -18,6 +19,8 @@
   - About: Moment is a social media app that allows you to share your own featured moments to other people! MERN stack is used for implementation.
 - #### Ecommerce SpringCloud: https://github.com/hesihui/Ecommerce-SpringCloud | SpringCloud, Microservice Architecture, Java
   - About: An E-commerce Backend System using Spring Cloud and MicroService Architecture. 
+-->
+
 <!--
 **hesihui/hesihui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
