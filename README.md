@@ -26,8 +26,7 @@ Hackathons:
 
 Research 
 -  A Case Study for the Predictions of the US Airport Networks Using Network Theory and Machine Learning
-
--  
+-  Melanoma Classification Using Feature Extraction and Machine Learning Approaches
  <!--
 ### Hi there 👋
 ### 👯I am a Computer Science Student @ University of Western Ontario. I am intersted in mostly web development and machine learning. 
