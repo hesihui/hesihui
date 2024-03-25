@@ -2,6 +2,9 @@ About Me
 
 I am a Java Developer Intern at AudienceView. I am passionate about making ideas into real world projects. 
 
+[My Protfolio Site](https://hesihui.github.io/)
+[My Linkedin](https://www.linkedin.com/in/sihui-he-6429551b0/)
+
 Projects
 - Jasmine AI (2023 - 2024) : A AI powered CRM platform for housing agents that leverages OPEN AI chatbot. Previously accepted by Microsoft for Startup Founder Hub. I did entire frontend features using Next.Js, React, Redux in Typescript. I also implmented backend training features using Flask. [prod site: https://jasminechatbot.com/]
 	- Tech Stack: Flask, Next.Js, React, Redux.
