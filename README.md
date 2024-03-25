@@ -1,11 +1,11 @@
-About Me
+## About Me
 
 I am a Java Developer Intern at AudienceView. I am passionate about making ideas into real world projects. 
 
-[My Protfolio Site](https://hesihui.github.io/)
-[My Linkedin](https://www.linkedin.com/in/sihui-he-6429551b0/)
+- [My Protfolio Site](https://hesihui.github.io/)
+- [My Linkedin](https://www.linkedin.com/in/sihui-he-6429551b0/)
 
-Projects
+## Projects
 - Jasmine AI (2023 - 2024) : A AI powered CRM platform for housing agents that leverages OPEN AI chatbot. Previously accepted by Microsoft for Startup Founder Hub. I did entire frontend features using Next.Js, React, Redux in Typescript. I also implmented backend training features using Flask. [prod site: https://jasminechatbot.com/]
 	- Tech Stack: Flask, Next.Js, React, Redux.
 - Super Charrio Kart+ (2023):  A redesign of revamped car racing game using three.js. [deployed site with document: https://master.d2tlh3ii86paek.amplifyapp.com/#github]
@@ -22,12 +22,12 @@ Projects
 - Ecommerce SpringCloud (2021): An E-commerce Backend System using Spring Cloud and MicroService Architecture. [github repo: https://github.com/hesihui/Ecommerce-SpringCloud]
 	- Tech Stack: SpringCloud, Microservice Architecture, Java
 
-Hackathons: 
+## Hackathons: 
 - SheHacks 2023 (Winnter - 2nd Overall): "GreeneryMiles" - a web app for budgeting vehicle expenses, reducing emissions and promoting sustainability
 - Hack Western 10 (2024): "EmpowerEase" - Automated scheduler that enhances both productivity and mental well-being.
 - SheHacks 2024: "So, You Want To Be An Auditor?" - An interactive and entertaining gamified education system to help users learn about taxes
 
-Research 
+## Research 
 -  A Case Study for the Predictions of the US Airport Networks Using Network Theory and Machine Learning
 -  Melanoma Classification Using Feature Extraction and Machine Learning Approaches
  <!--
