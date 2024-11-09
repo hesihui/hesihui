@@ -1,6 +1,5 @@
 ## About Me
 
-I am a Java Developer Intern at AudienceView. I am passionate about making ideas into real world projects. 
 
 - [My Protfolio Site](https://hesihui.github.io/)
 - [My Linkedin](https://www.linkedin.com/in/sihui-he-6429551b0/)
