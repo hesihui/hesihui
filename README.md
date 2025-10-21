@@ -1,7 +1,6 @@
 ## About Me
 
 
-- [My Protfolio Site](https://hesihui.github.io/)
 - [My Linkedin](https://www.linkedin.com/in/sihui-he-6429551b0/)
 - [My DevPost](https://devpost.com/she334)
 ## Hackathons: 
